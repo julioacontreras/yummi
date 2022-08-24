@@ -16,5 +16,10 @@ Sera una pagina dividida en tres secciones:
 
 ![Site example](docs/exampleSite.png)
 
-
 ## Ayuda de estudio
+
+Para añadir imagenes en el html:
+https://www.youtube.com/watch?v=iHGfGJt0vLo
+
+Para la seccion3 te puede ayudar este link:
+https://www.youtube.com/watch?v=-nVJwYKx6H8
